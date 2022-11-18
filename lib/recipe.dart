@@ -171,6 +171,23 @@ class Recipe {
         "In a large non-reactive saucepan, combine Cabernet, 1 cup sugar, cloves, and cinnamon sticks. Cut the orange in half and juice both halves into the bowl; then add the orange halves to the pan. Heat over medium-low until steaming but not boiling. Let cook over low heat for about 30 minutes to blend flavors.",
         "Season with more sugar to taste, if desired. Ladle from pot into mugs, making sure not to serve any stray cloves or pieces of orange."
       ]
+    ),
+
+    Recipe(
+      "Pisco Sour",
+      "assets/pisco_sour.jpeg",
+      [
+        "1/2 cup Pisco or brandy",
+        "2 limes, juiced",
+        "1 tablespoon fine granulated sugar",
+        "1 large pasteurized egg white (optional)",
+        "2 dashes bitters, such as Angostura",
+        "Ice, for serving"
+      ],
+      [
+        "Place the brandy, lime juice, sugar, egg white and bitters in a blender. Blend until the egg whites are frothy. Serve over ice.",
+        "Egg white optional. Do be aware this recipe calls for a raw egg white, so please use pasteurized eggs. But if you prefer, you can substitute the egg white powder or simply omit."
+      ]
     )
   ];
 }
